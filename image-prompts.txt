@@ -1,0 +1,64 @@
+ABC라이프케어 랜딩 페이지 이미지 생성 프롬프트
+사용법: 각 [파일명] 아래 한 줄짜리 프롬프트를 통째로 복사해 이미지 생성 도구에 붙여넣으세요.
+저장 위치: index.html과 같은 폴더의 images/ 폴더 (파일명 그대로 저장하면 페이지에 자동 표시)
+Midjourney 사용 시: 프롬프트 끝에 표기된 비율 옵션(예: --ar 4:3)을 붙이세요.
+
+
+■ 영문 프롬프트 (권장)
+
+[images/hero.jpg] 비율 1:1 (--ar 1:1)
+A warm, calm scene of a friendly Korean middle-aged couple in their 50s sitting on a light beige sofa, having a relaxed conversation with a female consultant holding a tablet, bright airy living room with soft natural window light, minimal Scandinavian interior, pastel color palette of mint green, soft peach, pale pink and lavender, gentle smiles, sense of trust and comfort, clean composition with plenty of negative space, editorial lifestyle photography, high resolution, no text, no logo, no watermark
+
+[images/service-health.jpg] 비율 4:3 (--ar 4:3)
+Minimal pastel illustration for a health consultation service, soft mint green background, a simple heart shape with a stethoscope, a glass of water, a green apple and a small potted plant arranged neatly, flat vector style with subtle soft shadows, rounded friendly shapes, calm clean composition, lots of negative space, pastel mint and cream palette, no text, no logo, no watermark
+
+[images/service-finance.jpg] 비율 4:3 (--ar 4:3)
+Minimal pastel illustration for a financial planning consultation, soft butter yellow background, a cute piggy bank, a small stack of coins, a simple upward bar chart and a calculator arranged neatly, flat vector style with subtle soft shadows, rounded friendly shapes, calm clean composition, lots of negative space, pastel yellow, peach and cream palette, no text, no numbers, no logo, no watermark
+
+[images/service-family.jpg] 비율 4:3 (--ar 4:3)
+Minimal pastel illustration for a family counseling service, soft blush pink background, a simple stylized house with three generations of a family (grandparents, parents and a child) standing together holding hands, faceless minimal characters, flat vector style with subtle soft shadows, rounded friendly shapes, warm caring mood, lots of negative space, pastel pink, coral and cream palette, no text, no logo, no watermark
+
+[images/service-retire.jpg] 비율 4:3 (--ar 4:3)
+Minimal pastel illustration for a retirement planning consultation, soft lavender background, a cozy armchair beside a window, a cup of tea, an open book, a watering can and a small garden plant, peaceful sunset light, flat vector style with subtle soft shadows, rounded friendly shapes, relaxed hopeful mood, lots of negative space, pastel lavender, periwinkle and cream palette, no text, no logo, no watermark
+
+[images/consult.jpg] 비율 4:3 (--ar 4:3)
+A friendly Korean female consultant in her 30s wearing a soft beige knit cardigan, smiling warmly during a one-on-one video consultation on a laptop at a clean white desk, a small vase of flowers and a notebook nearby, bright minimal office with soft natural light, pastel mint and peach accents, approachable trustworthy mood, shallow depth of field, editorial lifestyle photography, high resolution, no text on screen, no logo, no watermark
+
+[images/review-1.jpg] 비율 1:1 (--ar 1:1)
+Minimal flat avatar illustration of a friendly Korean man in his late 50s with short gray hair and glasses, gentle smile, head and shoulders, simple rounded shapes, soft lavender circular background, pastel palette, clean vector style, no text, no watermark
+
+[images/review-2.jpg] 비율 1:1 (--ar 1:1)
+Minimal flat avatar illustration of a friendly Korean woman in her 40s with shoulder-length dark hair, warm smile, head and shoulders, simple rounded shapes, soft blush pink circular background, pastel palette, clean vector style, no text, no watermark
+
+[images/review-3.jpg] 비율 1:1 (--ar 1:1)
+Minimal flat avatar illustration of a friendly Korean man in his 30s with short neat black hair and a casual light shirt, bright smile, head and shoulders, simple rounded shapes, soft mint green circular background, pastel palette, clean vector style, no text, no watermark
+
+
+■ 한글 프롬프트 (한국어 지원 도구용)
+
+[images/hero.jpg] 비율 1:1
+밝고 미니멀한 거실에서 베이지색 소파에 앉은 50대 한국인 중년 부부가 태블릿을 든 여성 상담사와 편안하게 대화하는 장면, 창으로 들어오는 부드러운 자연광, 민트·피치·연핑크·라벤더 파스텔톤, 따뜻하고 신뢰감 있는 분위기, 여백이 많은 깔끔한 구도, 라이프스타일 사진, 고해상도, 텍스트·로고·워터마크 없음
+
+[images/service-health.jpg] 비율 4:3
+건강 상담 서비스용 미니멀 파스텔 일러스트, 연한 민트색 배경, 하트와 청진기, 물 한 잔, 초록 사과, 작은 화분이 깔끔하게 배치됨, 부드러운 그림자의 플랫 벡터 스타일, 둥글고 친근한 형태, 넉넉한 여백, 텍스트 없음
+
+[images/service-finance.jpg] 비율 4:3
+재무 상담 서비스용 미니멀 파스텔 일러스트, 연한 버터옐로 배경, 귀여운 돼지저금통, 동전 더미, 우상향 막대 그래프, 계산기가 깔끔하게 배치됨, 부드러운 그림자의 플랫 벡터 스타일, 둥글고 친근한 형태, 넉넉한 여백, 텍스트·숫자 없음
+
+[images/service-family.jpg] 비율 4:3
+가족 상담 서비스용 미니멀 파스텔 일러스트, 연한 핑크 배경, 단순한 집 앞에서 조부모·부모·아이 3대 가족이 손을 잡고 서 있는 모습, 얼굴 없는 미니멀 캐릭터, 부드러운 그림자의 플랫 벡터 스타일, 따뜻한 분위기, 넉넉한 여백, 텍스트 없음
+
+[images/service-retire.jpg] 비율 4:3
+은퇴 설계 상담 서비스용 미니멀 파스텔 일러스트, 연한 라벤더 배경, 창가의 아늑한 안락의자, 찻잔, 펼친 책, 물뿌리개와 작은 화분, 은은한 노을빛, 부드러운 그림자의 플랫 벡터 스타일, 여유롭고 희망찬 분위기, 넉넉한 여백, 텍스트 없음
+
+[images/consult.jpg] 비율 4:3
+베이지색 니트 가디건을 입은 30대 한국인 여성 상담사가 깔끔한 흰 책상에서 노트북으로 1:1 화상 상담을 하며 따뜻하게 미소 짓는 모습, 작은 꽃병과 노트, 밝고 미니멀한 사무실, 부드러운 자연광, 민트·피치 파스텔 포인트, 신뢰감 있는 분위기, 얕은 심도, 라이프스타일 사진, 화면 속 텍스트·로고·워터마크 없음
+
+[images/review-1.jpg] 비율 1:1
+안경을 쓴 짧은 회색 머리의 50대 후반 한국인 남성 미니멀 플랫 아바타 일러스트, 온화한 미소, 상반신, 연한 라벤더색 원형 배경, 파스텔톤, 깔끔한 벡터 스타일, 텍스트 없음
+
+[images/review-2.jpg] 비율 1:1
+어깨 길이 검은 머리의 40대 한국인 여성 미니멀 플랫 아바타 일러스트, 따뜻한 미소, 상반신, 연한 핑크색 원형 배경, 파스텔톤, 깔끔한 벡터 스타일, 텍스트 없음
+
+[images/review-3.jpg] 비율 1:1
+짧고 단정한 검은 머리에 밝은 셔츠를 입은 30대 한국인 남성 미니멀 플랫 아바타 일러스트, 밝은 미소, 상반신, 연한 민트색 원형 배경, 파스텔톤, 깔끔한 벡터 스타일, 텍스트 없음
