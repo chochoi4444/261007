@@ -163,7 +163,7 @@ def main():
                fund_type, cls, date(2021, random.randint(1, 12), 1), date(2031, random.randint(1, 12), 1),
                random.randint(5, 300) * 100_000_000, nature]
         ts.append(row + [None, None, "투자금융팀", None])
-        ans.append(row + [total, commitment, "투자금융팀", remark])
+        ans.append(row + [total, None, "투자금융팀", remark])  # 잔여약정금액은 PoC 대상 아님(양식 C에만 방해 항목으로 존재)
 
     master.save(OUT / "master" / "종목_운용사_매핑표.xlsx")
     target.save(OUT / "target" / "당사양식_수익증권평가_빈양식.xlsx")
